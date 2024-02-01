@@ -4,7 +4,4 @@
 */
 
 let union: string | number;
-enum literal {
-  "enable",
-  "disable",
-}
+let literal: "enable" | "disable";
